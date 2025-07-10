@@ -6,6 +6,7 @@ One KPI of a manufacturing floor is how well it follows the planned schedule for
 
 Inputs: 
   - The automated exports for each weekday (e.g. "Monday Sched Conform WK23.csv")
+
 Outputs: 
 - Scheduled Manufacturing Orders for the week for each department (e.g. "DeptB Monday Scheduled MOs WK23")
   - Generated on Mondays. For visibility into what is on the schedule for the week 
